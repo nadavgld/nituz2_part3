@@ -28,9 +28,9 @@ public class Main {
 
                 ss.getPostStates().post(sp[1]);
             }
-//            else if (_line.toLowerCase().contains("/answer")) {
-////                ss.getCurrentState().answerQuiz();
-////            }
+            else if (_line.toLowerCase().contains("/answer")) {
+                ss.getQuizStates().answerQuiz();
+            }
             else if (_line.toLowerCase().contains("/next_week")) {
                 int week = ss.get_week();
                 ss.set_week(week+1);

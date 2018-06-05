@@ -1,42 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Nituz2_HW3:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8ea621a3-b280-448c-a16d-52f4c3a83286" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/NadavGrinberg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Active.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DNS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diligent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excellent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Idle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inactive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PostStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizDisabled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizEnabled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Regular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Researcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Nituz2_HW3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nituz2_HW3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/StudentSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nituz2_HW3/StudentSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/examSubmit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/forumPost.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/newSemester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/quizAnswer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/readArticle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/ssState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nituz2_HW3/ssState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nituz2_HW3/ssStateClass.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examSubmit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/forumPost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newSemester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quizAnswer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readArticle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ssState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ssState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ssStateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArticleStates.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,11 +25,10 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="43" column="57" lean-forward="true" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+            <state relative-caret-position="411">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
-                <element signature="e#892#957#0" />
-                <marker date="1528205850503" expanded="true" signature="0:1596" ph="..." />
+                <marker date="1528218669832" expanded="true" signature="0:1584" ph="..." />
               </folding>
             </state>
           </provider>
@@ -64,83 +37,11 @@
       <file leaf-file-name="StudentSystem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudentSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2519">
+            <state relative-caret-position="4004">
               <caret line="250" column="38" selection-start-line="250" selection-start-column="38" selection-end-line="250" selection-end-column="38" />
               <folding>
-                <element signature="class#259:590" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="class#648:973" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
-                <element signature="e#966#967#0" expanded="true" />
-                <element signature="class#1015:1341" />
-                <element signature="e#1086#1087#0" expanded="true" />
-                <element signature="e#1126#1127#0" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
                 <element signature="e#1189#1190#0" expanded="true" />
-                <element signature="e#1238#1239#0" expanded="true" />
-                <element signature="e#1292#1293#0" expanded="true" />
-                <element signature="e#1334#1335#0" expanded="true" />
-                <element signature="class#1981:2538" />
-                <element signature="e#2055#2056#0" expanded="true" />
-                <element signature="e#2109#2110#0" expanded="true" />
-                <element signature="e#2178#2179#0" expanded="true" />
-                <element signature="e#2227#2228#0" expanded="true" />
-                <element signature="e#2281#2282#0" expanded="true" />
-                <element signature="e#2323#2324#0" expanded="true" />
-                <element signature="e#2386#2387#0" expanded="true" />
-                <element signature="e#2435#2436#0" expanded="true" />
-                <element signature="e#2489#2490#0" expanded="true" />
-                <element signature="e#2531#2532#0" expanded="true" />
-                <element signature="e#888#935#0" />
-                <element signature="e#1804#1844#0" />
-                <element signature="e#2124#2125#0" expanded="true" />
-                <element signature="e#2152#2153#0" expanded="true" />
-                <element signature="e#3379#3380#0" expanded="true" />
-                <element signature="e#3411#3412#0" expanded="true" />
-                <element signature="e#3552#3553#0" expanded="true" />
-                <element signature="e#3581#3582#0" expanded="true" />
-                <element signature="e#3644#3645#0" expanded="true" />
-                <element signature="e#3680#3681#0" expanded="true" />
-                <element signature="e#3731#3732#0" expanded="true" />
-                <element signature="e#3759#3760#0" expanded="true" />
-                <element signature="e#3820#3821#0" expanded="true" />
-                <element signature="e#3854#3855#0" expanded="true" />
-                <element signature="e#3883#3884#0" expanded="true" />
-                <element signature="e#3911#3912#0" expanded="true" />
-                <element signature="e#4173#4174#0" expanded="true" />
-                <element signature="e#4209#4210#0" expanded="true" />
-                <element signature="e#4250#4251#0" expanded="true" />
-                <element signature="e#4283#4284#0" expanded="true" />
-                <element signature="e#4324#4325#0" expanded="true" />
-                <element signature="e#4357#4358#0" expanded="true" />
-                <element signature="e#4392#4393#0" expanded="true" />
-                <element signature="e#4422#4423#0" expanded="true" />
-                <element signature="e#4458#4459#0" expanded="true" />
-                <element signature="e#4489#4490#0" expanded="true" />
-                <element signature="e#4527#4528#0" expanded="true" />
-                <element signature="e#4560#4561#0" expanded="true" />
-                <element signature="e#4592#4593#0" expanded="true" />
-                <element signature="e#4619#4620#0" expanded="true" />
-                <element signature="e#4655#4656#0" expanded="true" />
-                <element signature="e#4686#4687#0" expanded="true" />
-                <element signature="e#4720#4721#0" expanded="true" />
-                <element signature="e#4749#4750#0" expanded="true" />
-                <element signature="e#4780#4781#0" expanded="true" />
-                <element signature="e#4806#4807#0" expanded="true" />
-                <element signature="e#4838#4839#0" expanded="true" />
-                <element signature="e#4865#4866#0" expanded="true" />
-                <element signature="e#4897#4898#0" expanded="true" />
-                <element signature="e#4924#4925#0" expanded="true" />
-                <element signature="e#4961#4962#0" expanded="true" />
-                <element signature="e#4993#4994#0" expanded="true" />
                 <element signature="e#5967#5968#0" expanded="true" />
                 <element signature="e#6006#6007#0" expanded="true" />
                 <element signature="e#6040#6041#0" expanded="true" />
@@ -172,21 +73,17 @@
       <file leaf-file-name="ArticleStates.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArticleStates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
+            <state relative-caret-position="770">
               <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="e#204#205#0" expanded="true" />
                 <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#2459#2460#0" expanded="true" />
-                <element signature="e#2512#2513#0" expanded="true" />
-                <element signature="e#2558#2559#0" expanded="true" />
-                <element signature="e#2604#2605#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuizStates.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="QuizStates.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QuizStates.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
@@ -195,35 +92,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExamStates.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExamStates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-                <element signature="e#955#956#0" expanded="true" />
-                <element signature="e#1001#1002#0" expanded="true" />
-                <element signature="e#1047#1048#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PostStates.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PostStates.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PostStates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="220">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#198#199#0" expanded="true" />
                 <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -285,7 +161,6 @@
         <option value="$PROJECT_DIR$/src/Diligent.java" />
         <option value="$PROJECT_DIR$/src/Regular.java" />
         <option value="$PROJECT_DIR$/src/ssState.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/PostStates.java" />
         <option value="$PROJECT_DIR$/src/ExamStates.java" />
         <option value="$PROJECT_DIR$/src/ArticleStates.java" />
@@ -294,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/QuizEnabled.java" />
         <option value="$PROJECT_DIR$/src/StudentSystem.java" />
         <option value="$PROJECT_DIR$/src/QuizStates.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -318,8 +194,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,12 +210,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/NadavGrinberg/IdeaProjects/Nituz2_HW3/src/Main.java&#10;&quot;No art&#9;null&#9;null&#10;getForumPostState&#9;PSI&#9;JAVA://StudentSystem#getForumPostState" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -404,11 +283,13 @@
       <workItem from="1527840484047" duration="2939000" />
       <workItem from="1528104831255" duration="54000" />
       <workItem from="1528199183666" duration="10160000" />
+      <workItem from="1528209612160" duration="435000" />
+      <workItem from="1528218606752" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24451000" />
+    <option name="totallyTimeSpent" value="25027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -427,7 +308,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16912752" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17315437" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -458,50 +339,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/forumPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/readArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/newSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examSubmit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quizAnswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" selection-start-column="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ssState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -516,10 +353,6 @@
           <folding>
             <element signature="e#204#205#0" expanded="true" />
             <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#2459#2460#0" expanded="true" />
-            <element signature="e#2512#2513#0" expanded="true" />
-            <element signature="e#2558#2559#0" expanded="true" />
-            <element signature="e#2604#2605#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -529,53 +362,16 @@
         <state relative-caret-position="176">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#892#957#0" />
-            <marker date="1528205850503" expanded="true" signature="0:1596" ph="..." />
+            <marker date="1528218669832" expanded="true" signature="0:1584" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/forumPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/readArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/newSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examSubmit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quizAnswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" selection-start-column="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/forumPost.java" />
+    <entry file="file://$PROJECT_DIR$/src/readArticle.java" />
+    <entry file="file://$PROJECT_DIR$/src/newSemester.java" />
+    <entry file="file://$PROJECT_DIR$/src/examSubmit.java" />
+    <entry file="file://$PROJECT_DIR$/src/quizAnswer.java" />
     <entry file="file://$PROJECT_DIR$/src/ssState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -595,80 +391,8 @@
         <state relative-caret-position="154">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding>
-            <element signature="class#259:590" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="class#648:973" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="class#1015:1341" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
             <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="class#1981:2538" />
-            <element signature="e#2055#2056#0" expanded="true" />
-            <element signature="e#2109#2110#0" expanded="true" />
-            <element signature="e#2178#2179#0" expanded="true" />
-            <element signature="e#2227#2228#0" expanded="true" />
-            <element signature="e#2281#2282#0" expanded="true" />
-            <element signature="e#2323#2324#0" expanded="true" />
-            <element signature="e#2386#2387#0" expanded="true" />
-            <element signature="e#2435#2436#0" expanded="true" />
-            <element signature="e#2489#2490#0" expanded="true" />
-            <element signature="e#2531#2532#0" expanded="true" />
-            <element signature="e#888#935#0" />
-            <element signature="e#1804#1844#0" />
-            <element signature="e#2124#2125#0" expanded="true" />
-            <element signature="e#2152#2153#0" expanded="true" />
-            <element signature="e#3379#3380#0" expanded="true" />
-            <element signature="e#3411#3412#0" expanded="true" />
-            <element signature="e#3552#3553#0" expanded="true" />
-            <element signature="e#3581#3582#0" expanded="true" />
-            <element signature="e#3644#3645#0" expanded="true" />
-            <element signature="e#3680#3681#0" expanded="true" />
-            <element signature="e#3731#3732#0" expanded="true" />
-            <element signature="e#3759#3760#0" expanded="true" />
-            <element signature="e#3820#3821#0" expanded="true" />
-            <element signature="e#3854#3855#0" expanded="true" />
-            <element signature="e#3883#3884#0" expanded="true" />
-            <element signature="e#3911#3912#0" expanded="true" />
-            <element signature="e#4173#4174#0" expanded="true" />
-            <element signature="e#4209#4210#0" expanded="true" />
-            <element signature="e#4250#4251#0" expanded="true" />
-            <element signature="e#4283#4284#0" expanded="true" />
-            <element signature="e#4324#4325#0" expanded="true" />
-            <element signature="e#4357#4358#0" expanded="true" />
-            <element signature="e#4392#4393#0" expanded="true" />
-            <element signature="e#4422#4423#0" expanded="true" />
-            <element signature="e#4458#4459#0" expanded="true" />
-            <element signature="e#4489#4490#0" expanded="true" />
-            <element signature="e#4527#4528#0" expanded="true" />
-            <element signature="e#4560#4561#0" expanded="true" />
-            <element signature="e#4592#4593#0" expanded="true" />
-            <element signature="e#4619#4620#0" expanded="true" />
-            <element signature="e#4655#4656#0" expanded="true" />
-            <element signature="e#4686#4687#0" expanded="true" />
-            <element signature="e#4720#4721#0" expanded="true" />
-            <element signature="e#4749#4750#0" expanded="true" />
-            <element signature="e#4780#4781#0" expanded="true" />
-            <element signature="e#4806#4807#0" expanded="true" />
-            <element signature="e#4838#4839#0" expanded="true" />
-            <element signature="e#4865#4866#0" expanded="true" />
-            <element signature="e#4897#4898#0" expanded="true" />
-            <element signature="e#4924#4925#0" expanded="true" />
-            <element signature="e#4961#4962#0" expanded="true" />
-            <element signature="e#4993#4994#0" expanded="true" />
             <element signature="e#5967#5968#0" expanded="true" />
             <element signature="e#6006#6007#0" expanded="true" />
             <element signature="e#6040#6041#0" expanded="true" />
@@ -683,8 +407,7 @@
         <state relative-caret-position="176">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#892#957#0" />
-            <marker date="1528205850503" expanded="true" signature="0:1596" ph="..." />
+            <marker date="1528218669832" expanded="true" signature="0:1584" ph="..." />
           </folding>
         </state>
       </provider>
@@ -694,80 +417,8 @@
         <state relative-caret-position="1122">
           <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
           <folding>
-            <element signature="class#259:590" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="class#648:973" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="class#1015:1341" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
             <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="class#1981:2538" />
-            <element signature="e#2055#2056#0" expanded="true" />
-            <element signature="e#2109#2110#0" expanded="true" />
-            <element signature="e#2178#2179#0" expanded="true" />
-            <element signature="e#2227#2228#0" expanded="true" />
-            <element signature="e#2281#2282#0" expanded="true" />
-            <element signature="e#2323#2324#0" expanded="true" />
-            <element signature="e#2386#2387#0" expanded="true" />
-            <element signature="e#2435#2436#0" expanded="true" />
-            <element signature="e#2489#2490#0" expanded="true" />
-            <element signature="e#2531#2532#0" expanded="true" />
-            <element signature="e#888#935#0" />
-            <element signature="e#1804#1844#0" />
-            <element signature="e#2124#2125#0" expanded="true" />
-            <element signature="e#2152#2153#0" expanded="true" />
-            <element signature="e#3379#3380#0" expanded="true" />
-            <element signature="e#3411#3412#0" expanded="true" />
-            <element signature="e#3552#3553#0" expanded="true" />
-            <element signature="e#3581#3582#0" expanded="true" />
-            <element signature="e#3644#3645#0" expanded="true" />
-            <element signature="e#3680#3681#0" expanded="true" />
-            <element signature="e#3731#3732#0" expanded="true" />
-            <element signature="e#3759#3760#0" expanded="true" />
-            <element signature="e#3820#3821#0" expanded="true" />
-            <element signature="e#3854#3855#0" expanded="true" />
-            <element signature="e#3883#3884#0" expanded="true" />
-            <element signature="e#3911#3912#0" expanded="true" />
-            <element signature="e#4173#4174#0" expanded="true" />
-            <element signature="e#4209#4210#0" expanded="true" />
-            <element signature="e#4250#4251#0" expanded="true" />
-            <element signature="e#4283#4284#0" expanded="true" />
-            <element signature="e#4324#4325#0" expanded="true" />
-            <element signature="e#4357#4358#0" expanded="true" />
-            <element signature="e#4392#4393#0" expanded="true" />
-            <element signature="e#4422#4423#0" expanded="true" />
-            <element signature="e#4458#4459#0" expanded="true" />
-            <element signature="e#4489#4490#0" expanded="true" />
-            <element signature="e#4527#4528#0" expanded="true" />
-            <element signature="e#4560#4561#0" expanded="true" />
-            <element signature="e#4592#4593#0" expanded="true" />
-            <element signature="e#4619#4620#0" expanded="true" />
-            <element signature="e#4655#4656#0" expanded="true" />
-            <element signature="e#4686#4687#0" expanded="true" />
-            <element signature="e#4720#4721#0" expanded="true" />
-            <element signature="e#4749#4750#0" expanded="true" />
-            <element signature="e#4780#4781#0" expanded="true" />
-            <element signature="e#4806#4807#0" expanded="true" />
-            <element signature="e#4838#4839#0" expanded="true" />
-            <element signature="e#4865#4866#0" expanded="true" />
-            <element signature="e#4897#4898#0" expanded="true" />
-            <element signature="e#4924#4925#0" expanded="true" />
-            <element signature="e#4961#4962#0" expanded="true" />
-            <element signature="e#4993#4994#0" expanded="true" />
             <element signature="e#5967#5968#0" expanded="true" />
             <element signature="e#6006#6007#0" expanded="true" />
             <element signature="e#6040#6041#0" expanded="true" />
@@ -777,47 +428,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/forumPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/readArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/newSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examSubmit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quizAnswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/forumPost.java" />
+    <entry file="file://$PROJECT_DIR$/src/readArticle.java" />
+    <entry file="file://$PROJECT_DIR$/src/newSemester.java" />
+    <entry file="file://$PROJECT_DIR$/src/examSubmit.java" />
+    <entry file="file://$PROJECT_DIR$/src/quizAnswer.java" />
     <entry file="file://$PROJECT_DIR$/src/ssState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -837,8 +452,7 @@
         <state relative-caret-position="1650">
           <caret line="75" column="59" selection-start-line="75" selection-start-column="59" selection-end-line="75" selection-end-column="59" />
           <folding>
-            <element signature="e#892#957#0" />
-            <marker date="1528205850503" expanded="true" signature="0:1596" ph="..." />
+            <marker date="1528218669832" expanded="true" signature="0:1584" ph="..." />
           </folding>
         </state>
       </provider>
@@ -933,72 +547,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/examSubmit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" />
-          <folding>
-            <element signature="e#0#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/forumPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" />
-          <folding>
-            <element signature="e#0#477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/newSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" />
-          <folding>
-            <element signature="e#0#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quizAnswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" />
-          <folding>
-            <element signature="e#0#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ssState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/readArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examSubmit.java" />
+    <entry file="file://$PROJECT_DIR$/src/forumPost.java" />
+    <entry file="file://$PROJECT_DIR$/src/newSemester.java" />
+    <entry file="file://$PROJECT_DIR$/src/quizAnswer.java" />
+    <entry file="file://$PROJECT_DIR$/src/readArticle.java" />
     <entry file="file://$PROJECT_DIR$/src/ExamStates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
+        <state relative-caret-position="528">
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="e#171#172#0" expanded="true" />
             <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
             <element signature="e#902#903#0" expanded="true" />
             <element signature="e#955#956#0" expanded="true" />
             <element signature="e#1001#1002#0" expanded="true" />
@@ -1009,26 +569,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="43" column="57" lean-forward="true" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+        <state relative-caret-position="411">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
-            <element signature="e#892#957#0" />
-            <marker date="1528205850503" expanded="true" signature="0:1596" ph="..." />
+            <marker date="1528218669832" expanded="true" signature="0:1584" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ArticleStates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
+        <state relative-caret-position="770">
           <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="e#204#205#0" expanded="true" />
             <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#2459#2460#0" expanded="true" />
-            <element signature="e#2512#2513#0" expanded="true" />
-            <element signature="e#2558#2559#0" expanded="true" />
-            <element signature="e#2604#2605#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1040,85 +595,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuizEnabled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/StudentSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2519">
+        <state relative-caret-position="4004">
           <caret line="250" column="38" selection-start-line="250" selection-start-column="38" selection-end-line="250" selection-end-column="38" />
           <folding>
-            <element signature="class#259:590" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="class#648:973" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="class#1015:1341" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
             <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="class#1981:2538" />
-            <element signature="e#2055#2056#0" expanded="true" />
-            <element signature="e#2109#2110#0" expanded="true" />
-            <element signature="e#2178#2179#0" expanded="true" />
-            <element signature="e#2227#2228#0" expanded="true" />
-            <element signature="e#2281#2282#0" expanded="true" />
-            <element signature="e#2323#2324#0" expanded="true" />
-            <element signature="e#2386#2387#0" expanded="true" />
-            <element signature="e#2435#2436#0" expanded="true" />
-            <element signature="e#2489#2490#0" expanded="true" />
-            <element signature="e#2531#2532#0" expanded="true" />
-            <element signature="e#888#935#0" />
-            <element signature="e#1804#1844#0" />
-            <element signature="e#2124#2125#0" expanded="true" />
-            <element signature="e#2152#2153#0" expanded="true" />
-            <element signature="e#3379#3380#0" expanded="true" />
-            <element signature="e#3411#3412#0" expanded="true" />
-            <element signature="e#3552#3553#0" expanded="true" />
-            <element signature="e#3581#3582#0" expanded="true" />
-            <element signature="e#3644#3645#0" expanded="true" />
-            <element signature="e#3680#3681#0" expanded="true" />
-            <element signature="e#3731#3732#0" expanded="true" />
-            <element signature="e#3759#3760#0" expanded="true" />
-            <element signature="e#3820#3821#0" expanded="true" />
-            <element signature="e#3854#3855#0" expanded="true" />
-            <element signature="e#3883#3884#0" expanded="true" />
-            <element signature="e#3911#3912#0" expanded="true" />
-            <element signature="e#4173#4174#0" expanded="true" />
-            <element signature="e#4209#4210#0" expanded="true" />
-            <element signature="e#4250#4251#0" expanded="true" />
-            <element signature="e#4283#4284#0" expanded="true" />
-            <element signature="e#4324#4325#0" expanded="true" />
-            <element signature="e#4357#4358#0" expanded="true" />
-            <element signature="e#4392#4393#0" expanded="true" />
-            <element signature="e#4422#4423#0" expanded="true" />
-            <element signature="e#4458#4459#0" expanded="true" />
-            <element signature="e#4489#4490#0" expanded="true" />
-            <element signature="e#4527#4528#0" expanded="true" />
-            <element signature="e#4560#4561#0" expanded="true" />
-            <element signature="e#4592#4593#0" expanded="true" />
-            <element signature="e#4619#4620#0" expanded="true" />
-            <element signature="e#4655#4656#0" expanded="true" />
-            <element signature="e#4686#4687#0" expanded="true" />
-            <element signature="e#4720#4721#0" expanded="true" />
-            <element signature="e#4749#4750#0" expanded="true" />
-            <element signature="e#4780#4781#0" expanded="true" />
-            <element signature="e#4806#4807#0" expanded="true" />
-            <element signature="e#4838#4839#0" expanded="true" />
-            <element signature="e#4865#4866#0" expanded="true" />
-            <element signature="e#4897#4898#0" expanded="true" />
-            <element signature="e#4924#4925#0" expanded="true" />
-            <element signature="e#4961#4962#0" expanded="true" />
-            <element signature="e#4993#4994#0" expanded="true" />
             <element signature="e#5967#5968#0" expanded="true" />
             <element signature="e#6006#6007#0" expanded="true" />
             <element signature="e#6040#6041#0" expanded="true" />
@@ -1128,10 +618,258 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QuizEnabled.java">
+    <entry file="uml://JAVA/ssState">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ssState</OriginalElement>
+          <nodes>
+            <node x="" y="">ssState</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="42.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ssState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/PostStates">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>PostStates</OriginalElement>
+          <nodes>
+            <node x="" y="">ssState</node>
+            <node x="" y="">PostStates</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="51.0" y="54.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/META-INF">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>META-INF</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">META-INF.licenses</node>
+            <node x="0.0" y="74.0">META-INF.services</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-317.0" y="-33.0" />
+          <SelectedNodes>
+            <node>META-INF.licenses</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">Regular</node>
+            <node x="" y="">Diligent</node>
+            <node x="" y="">DNS</node>
+            <node x="" y="">ExamStates</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">Excellent</node>
+            <node x="" y="">Pass</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">Researcher</node>
+            <node x="" y="">Idle</node>
+            <node x="" y="">Inactive</node>
+            <node x="" y="">QuizEnabled</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">QuizStates</node>
+            <node x="" y="">Fail</node>
+            <node x="" y="">ssState</node>
+            <node x="" y="">org</node>
+            <node x="" y="">QuizDisabled</node>
+            <node x="" y="">ArticleStates</node>
+            <node x="" y="">PostStates</node>
+            <node x="" y="">StudentSystem</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">Active</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">groovyjarjarantlr</node>
+            <node x="" y="">Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9529320987654321" x="638.0" y="220.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PostStates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Active">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Active</OriginalElement>
+          <nodes>
+            <node x="550.75" y="0.0">ssState</node>
+            <node x="0.0" y="158.0">QuizDisabled</node>
+            <node x="509.0" y="158.0">Regular</node>
+            <node x="379.5" y="79.0">ArticleStates</node>
+            <node x="274.0" y="158.0">Diligent</node>
+            <node x="999.0" y="158.0">DNS</node>
+            <node x="1032.75" y="79.0">ExamStates</node>
+            <node x="698.0" y="79.0">PostStates</node>
+            <node x="0.0" y="232.0">StudentSystem</node>
+            <node x="813.0" y="158.0">Active</node>
+            <node x="1091.0" y="158.0">Excellent</node>
+            <node x="1206.0" y="158.0">Pass</node>
+            <node x="384.0" y="158.0">Researcher</node>
+            <node x="617.0" y="158.0">Idle</node>
+            <node x="705.0" y="158.0">Inactive</node>
+            <node x="139.0" y="158.0">QuizEnabled</node>
+            <node x="171.0" y="232.0">Main</node>
+            <node x="72.5" y="79.0">QuizStates</node>
+            <node x="913.0" y="158.0">Fail</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Diligent" target="ArticleStates">
+              <point x="0.0" y="-14.5" />
+              <point x="319.0" y="138.0" />
+              <point x="398.5" y="138.0" />
+              <point x="-38.0" y="14.5" />
+            </edge>
+            <edge source="PostStates" target="ssState">
+              <point x="0.0" y="-14.5" />
+              <point x="749.0" y="59.0" />
+              <point x="603.25" y="59.0" />
+              <point x="10.5" y="14.5" />
+            </edge>
+            <edge source="ExamStates" target="ssState">
+              <point x="0.0" y="-14.5" />
+              <point x="1086.75" y="49.0" />
+              <point x="624.25" y="49.0" />
+              <point x="31.5" y="14.5" />
+            </edge>
+            <edge source="Inactive" target="PostStates">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Regular" target="ArticleStates">
+              <point x="0.0" y="-14.5" />
+              <point x="553.0" y="138.0" />
+              <point x="474.5" y="138.0" />
+              <point x="38.0" y="14.5" />
+            </edge>
+            <edge source="Researcher" target="ArticleStates">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="QuizDisabled" target="QuizStates">
+              <point x="0.0" y="-14.5" />
+              <point x="59.5" y="138.0" />
+              <point x="98.5" y="138.0" />
+              <point x="-26.0" y="14.5" />
+            </edge>
+            <edge source="Excellent" target="ExamStates">
+              <point x="0.0" y="-14.5" />
+              <point x="1138.5" y="138.0" />
+              <point x="1100.25" y="138.0" />
+              <point x="13.5" y="14.5" />
+            </edge>
+            <edge source="Idle" target="PostStates">
+              <point x="0.0" y="-14.5" />
+              <point x="651.0" y="138.0" />
+              <point x="715.0" y="138.0" />
+              <point x="-34.0" y="14.5" />
+            </edge>
+            <edge source="Fail" target="ExamStates">
+              <point x="0.0" y="-14.5" />
+              <point x="946.0" y="128.0" />
+              <point x="1046.25" y="128.0" />
+              <point x="-40.5" y="14.5" />
+            </edge>
+            <edge source="Pass" target="ExamStates">
+              <point x="0.0" y="-14.5" />
+              <point x="1241.0" y="128.0" />
+              <point x="1127.25" y="128.0" />
+              <point x="40.5" y="14.5" />
+            </edge>
+            <edge source="DNS" target="ExamStates">
+              <point x="0.0" y="-14.5" />
+              <point x="1035.0" y="138.0" />
+              <point x="1073.25" y="138.0" />
+              <point x="-13.5" y="14.5" />
+            </edge>
+            <edge source="QuizEnabled" target="QuizStates">
+              <point x="0.0" y="-14.5" />
+              <point x="196.5" y="138.0" />
+              <point x="150.5" y="138.0" />
+              <point x="26.0" y="14.5" />
+            </edge>
+            <edge source="Active" target="PostStates">
+              <point x="0.0" y="-14.5" />
+              <point x="853.0" y="138.0" />
+              <point x="783.0" y="138.0" />
+              <point x="34.0" y="14.5" />
+            </edge>
+            <edge source="QuizStates" target="ssState">
+              <point x="0.0" y="-14.5" />
+              <point x="124.5" y="49.0" />
+              <point x="561.25" y="49.0" />
+              <point x="-31.5" y="14.5" />
+            </edge>
+            <edge source="ArticleStates" target="ssState">
+              <point x="0.0" y="-14.5" />
+              <point x="436.5" y="59.0" />
+              <point x="582.25" y="59.0" />
+              <point x="-10.5" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9529320987654321" x="633.0" y="131.0" />
+          <SelectedNodes>
+            <node>Active</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -1142,18 +880,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PostStates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Nituz2_HW3:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Nituz2_HW3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
