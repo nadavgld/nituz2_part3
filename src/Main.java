@@ -18,27 +18,32 @@ public class Main {
                 String[] sp = _line.split(" ");
                 int score = Integer.parseInt(sp[1]);
 
-                ss.getCurrentState().exam(score);
+                ss.getExamStates().exam(score);
             }
             else if (_line.toLowerCase().contains("/read")) {
-                ss.getCurrentState().readArticle();
+                ss.getArticleStates().readArticle();
             }
             else if (_line.toLowerCase().contains("/post")) {
                 String[] sp = _line.split(" ");
 
-                ss.getCurrentState().post(sp[1]);
+                ss.getPostStates().post(sp[1]);
             }
-            else if (_line.toLowerCase().contains("/answer")) {
-                ss.getCurrentState().answerQuiz();
-            }
+//            else if (_line.toLowerCase().contains("/answer")) {
+////                ss.getCurrentState().answerQuiz();
+////            }
             else if (_line.toLowerCase().contains("/next_week")) {
-                ss.getCurrentState().nextWeek();
+                int week = ss.get_week();
+                ss.set_week(week+1);
             }
             else if (_line.toLowerCase().contains("/status")) {
                 String[] sp = _line.split(" ");
                 String input = sp[1];
 
-                ss.getCurrentState().status(input);
+                input = ss.getArticleStates().status(input);
+                input = ss.getPostStates().status(input);
+                input = ss.getExamStates().status(input);
+
+                System.out.println(input);
             }
 
         }
